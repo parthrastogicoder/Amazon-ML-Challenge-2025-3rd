@@ -91,7 +91,7 @@ class DebertaWithFeatures(nn.Module):
         return self.regressor(fused).squeeze(-1)
 
 def inference():
-    print("📂 Loading test data...")
+    print("Loading test data...")
     test_df = pd.read_csv(TEST_CSV)
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
     test_ds = TextDataset(test_df, tokenizer, MAX_LEN)
