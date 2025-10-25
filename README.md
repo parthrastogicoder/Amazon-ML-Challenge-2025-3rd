@@ -1,14 +1,14 @@
 
-# 🧠 Amazon ML Challenge 2025 — 3rd (Second Runner-Up)
+# Amazon ML Challenge 2025 — 3rd (Second Runner-Up)
 
 **Team Name:** 00_Team_Rocket
 **Team Members:** Angadjeet Singh, Parth Rastogi, Abhishek Jha, Harsh Kumar
 
 ---
 
-## 🏆 Achievement
+## Achievement
 
-🥈 **Secured Second Runner-Up Position** in **Amazon ML Challenge 2025**
+ **Secured Second Runner-Up Position** in **Amazon ML Challenge 2025**
 
 ---
 
