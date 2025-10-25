@@ -119,5 +119,9 @@ Amazon-ML-Challenge-2025-3rd/
 ├── README.md
 ```
 
+## 🔗 Final Model Checkpoint
 
+You can access the **final trained model (DeBERTa + Cross-Attention Fusion)** used for the final submission here:  
+👉 [**Final_Model.pt (Google Drive)**](https://drive.google.com/file/d/1ojuueFwkg7y65r1dQj93YMDzn5Q481dU/view?usp=sharing)
 
+---
